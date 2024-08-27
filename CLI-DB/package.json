@@ -1,0 +1,24 @@
+{
+  "name": "cli-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.6",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0",
+    "sqlite3": "^5.1.7"
+  }
+}
